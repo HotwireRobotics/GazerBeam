@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<previews>
+
+    <preview
+        name="Config1"
+        activity="com.example.hotvision.MainActivity"
+        config="layout-ldltr-sw384dp-w640dp-h384dp-normal-notround-land-notnight-xhdpi-finger-keyssoft-nokeys-navhidden-nonav-1280x768-v26"
+        device="Nexus 4"
+        devicestate="Landscape"
+        target="Android 8.0.0"
+        theme="@android:style/Theme.Holo" >
+    </preview>
+    <preview
+        name="Config1"
+        activity="com.example.hotvision.MainActivity"
+        config="layout-ldltr-sw384dp-w640dp-h384dp-normal-notround-land-notnight-xhdpi-finger-keyssoft-nokeys-navhidden-nonav-1280x768-v18"
+        device="Nexus 4"
+        devicestate="Landscape"
+        target="Android 4.3.1"
+        theme="@android:style/Theme.Holo" >
+    </preview>
+
+</previews>
