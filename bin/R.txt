@@ -8,6 +8,8 @@ int id SeekBarMin 0x7f08000e
 int id TextView01 0x7f080009
 int id TextView02 0x7f08000b
 int id TextView03 0x7f08000d
+int id TextView04 0x7f08000f
+int id TextView05 0x7f080011
 int id any 0x7f080000
 int id back 0x7f080001
 int id camera_surface_view 0x7f080003
@@ -18,6 +20,8 @@ int id seekBar_S 0x7f080008
 int id seekBar_V 0x7f08000a
 int id title_text_view 0x7f080005
 int id title_text_view_S 0x7f080007
+int id toggleButton02 0x7f080012
+int id toggleButton1 0x7f080010
 int integer Hpizzatime 0x7f050000
 int integer MAXmealtime 0x7f050003
 int integer MINplsthxurwelcome 0x7f050004

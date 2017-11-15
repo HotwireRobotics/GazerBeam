@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <integer name="Hpizzatime">16</integer>
-    <integer name="Spooderman">91</integer>
-    <integer name="Vegettios">04</integer>
+    <integer name="Hpizzatime">47</integer>
+    <integer name="Spooderman">56</integer>
+    <integer name="Vegettios">20</integer>
     <integer name="MAXmealtime">61</integer>
     <integer name="MINplsthxurwelcome">41</integer>
 </resources>

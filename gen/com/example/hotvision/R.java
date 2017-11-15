@@ -56,6 +56,8 @@ containing a value of this type.
         public static final int TextView01=0x7f080009;
         public static final int TextView02=0x7f08000b;
         public static final int TextView03=0x7f08000d;
+        public static final int TextView04=0x7f08000f;
+        public static final int TextView05=0x7f080011;
         public static final int any=0x7f080000;
         public static final int back=0x7f080001;
         public static final int camera_surface_view=0x7f080003;
@@ -66,6 +68,8 @@ containing a value of this type.
         public static final int seekBar_V=0x7f08000a;
         public static final int title_text_view=0x7f080005;
         public static final int title_text_view_S=0x7f080007;
+        public static final int toggleButton02=0x7f080012;
+        public static final int toggleButton1=0x7f080010;
     }
     public static final class integer {
         public static final int Hpizzatime=0x7f050000;
